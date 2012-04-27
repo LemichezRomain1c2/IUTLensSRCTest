@@ -7,7 +7,9 @@
 83 Toulon
 31 Ramonville St Agnen
 
-(20=8+4+3+3+2)
+(20=8+4+3+3+2+1)
+59 Fleurbaix
+
 59 Lille	7
 59 Faches Thumesnil
 
@@ -31,12 +33,13 @@
 
 62 Libercourt
 
-(11=4+1+2+4)
+(13=4+1+2+4+1+2)
 62 Lens		4
+62 Sallaumine	1
 62 Liévin
 62 Méricourt	2
 62 Vendin le vieil
-62 Loos en Gohelle
+62 Loos en Gohelle	2
 62 Mazingarbe
 62 Noeux les mines
 
